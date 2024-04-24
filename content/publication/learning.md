@@ -12,7 +12,7 @@ title = "Hierarchical bottleneck for heterogeneous graph representation"
 url_code = "//github.com"
 url_dataset = ""
 url_pdf = "https://www.sciencedirect.com/science/article/pii/S0020025524003359"
-url_project = "/project/药物关联分析"
+url_project = "/project/Drug association analysis"
 url_slides = ""
 url_video = ""
 
@@ -21,6 +21,21 @@ url_video = ""
     is_member = true
 [[authors]]
     name = "Li Meng"
+    is_member = true
+[[authors]]
+    name = "Jian Ma"
+    is_member = true
+[[authors]]
+    name = "Yiwen Zhang"
+    is_member = true
+[[authors]]
+    name = "Qun Wu"
+    is_member = true
+[[authors]]
+    name = "Weiping Ding"
+    is_member = true
+[[authors]]
+    name = "Fei Yang"
     is_member = true
 +++
 
