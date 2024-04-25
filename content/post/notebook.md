@@ -2,14 +2,12 @@
 date = "2024-04-22"
 short_text = ""
 title = "医学大数据分析与转化实验室：引领医疗科技新潮流"
+sort_position = 3
+
 [[authors]]
-    name = "member1"
+    name = "anonymity"
     is_member = true
-    link = "/member1"
-[[authors]]
-    name = "member2"
-    is_member = true
-    link = "/member2"
+    link = "/anonymity"
 +++
 **医学大数据分析与转化实验室：引领医疗科技新潮流**
 

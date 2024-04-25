@@ -2,10 +2,12 @@
 date = "2024-03-22"
 short_text = ""
 title = "揭秘医学大数据分析与转化实验室的奥秘"
+sort_position = 1
+
 [[authors]]
-    name = "member1"
+    name = "anonymity"
     is_member = true
-    link = "/member1"
+    link = "/anonymity"
 +++
 **揭秘医学大数据分析与转化实验室的奥秘**
 

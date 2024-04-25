@@ -3,13 +3,15 @@ date = "2016-07-12T16:10:22+02:00"
 description = ""
 external_link = ""
 image = ""
-project_id = "1"
+project_id = "2"
 short_description = ""
 title = "医学电子病历文本识别"
+sort_position = 2
 [[participants]]
     name = "Member 1"
     is_member = true
     id = "member1"
+
 +++
 一、引言  
 随着信息技术的飞速发展，电子病历（Electronic Medical Records, EMR）已成为医疗行业的重要基础设施。医学电子病历文本识别技术是指利用自然语言处理（Natural Language Processing, NLP）、光学字符识别（Optical Character Recognition, OCR）等技术，从电子病历的文本数据中提取有用信息，以支持临床决策和研究。  

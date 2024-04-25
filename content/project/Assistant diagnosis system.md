@@ -6,10 +6,12 @@ image = ""
 project_id = "3"
 short_description = ""
 title = "医学智能辅助诊断系统"
+sort_position = 3
 [[participants]]
     name = "Member 1"
     is_member = true
     id = "member1"
+
 +++
 一、引言  
 随着信息技术的飞速发展，人工智能（AI）已渗透到各个行业，其中医疗领域尤为显著。医学智能辅助诊断系统作为AI技术在医疗领域的具体应用之一，正在逐步改变传统的医疗诊断模式。这些系统通过模拟医生的决策过程，辅助医生进行更快速、更准确的疾病诊断，从而提高患者的治疗效果和生活质量。  
