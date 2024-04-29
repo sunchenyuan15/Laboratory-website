@@ -2,7 +2,6 @@
 date = "2024-03-22"
 short_text = ""
 title = "揭秘医学大数据分析与转化实验室的奥秘"
-sort_position = 1
 
 [[authors]]
     name = "anonymity"
