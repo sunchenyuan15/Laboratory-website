@@ -2,7 +2,7 @@
 {{ partial "navbar.html" . }}
 
 <div class="container">
-    <h1>Team</h1>
+    <h1>导师团队</h1>
     {{ range (sort .Data.Pages ".Params.sort_position") }}
             {{partial "member_li" .}}
     {{ end }}
@@ -12,7 +12,7 @@
 {{ if gt $guests_len 0 }}
 
 <div class="container">
-    <h1>Guest Researchers</h1>
+    <h1>学生</h1>
     {{ range where .Site.RegularPages "Section" "guests" }}
         {{ partial "guests_li" . }} <!-- Assuming you have a 'guest_li' partial to format guest entries, similar to 'alumni_li'. -->
     {{ end }}

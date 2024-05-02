@@ -6,14 +6,14 @@ interests = ["医疗大数据分析", "推荐系统", "图神经网络", "异质
 name = "何云飞"
 
 portrait = "/portraits/heyunfei.jpg"
-short_bio = ""
+short_bio = "heyunfei@ahmu.edu.cn"
 short_name = ""
 title = "2_yunfei he"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "heyunfei@ahmu.edu.cn"
 
 [[social]]
     icon = "twitter"

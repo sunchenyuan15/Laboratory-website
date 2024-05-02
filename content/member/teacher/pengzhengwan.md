@@ -5,14 +5,14 @@ id = "member6"
 interests = ["量子安全多方计算", "移动医疗"]
 name = "彭振皖"
 portrait = "/portraits/pengzhengwan.jpg"
-short_bio = ""
+short_bio = "pengzhenwan@ahmu.edu.cn"
 short_name = ""
 title = "6_zhenwan peng"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "pengzhenwan@ahmu.edu.c"
 
 [[social]]
     icon = "twitter"

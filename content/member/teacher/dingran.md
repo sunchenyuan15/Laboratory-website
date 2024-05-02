@@ -6,14 +6,14 @@ interests = ["医学数据安全及隐私保护", "医学数据分析"]
 name = "丁冉"
 
 portrait = "/portraits/dingran.jpg"
-short_bio = ""
+short_bio = "dingran@ahmu.edu.cn"
 short_name = ""
 title = "5_ran ding"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "dingran@ahmu.edu.cn"
 
 [[social]]
     icon = "twitter"

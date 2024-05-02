@@ -5,14 +5,14 @@ id = "member1"
 interests = ["数据挖掘", "医学大数据分析", "医学智能辅助诊断研发"]
 name = "杨飞"
 portrait = "/portraits/yangfei.jpg"
-short_bio = ""
+short_bio = "yangfei@ahmu.edu.cn"
 short_name = ""
 title = "1_fei yang"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "yangfei@ahmu.edu.cn"
 
 [[social]]
     icon = "twitter"

@@ -6,14 +6,14 @@ interests = ["医疗数据挖掘与分析", "知识图谱", "自然语言处理"
 name = "李玉玲"
 
 portrait = "/portraits/liyuling.jpg"
-short_bio = ""
+short_bio = "liyuling@ahmu.edu.cn"
 short_name = ""
 title = "4_yulin li"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "liyuling@ahmu.edu.cn"
 
 [[social]]
     icon = "twitter"

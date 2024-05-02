@@ -6,14 +6,14 @@ id = "member3"
 interests = ["医学图像处理", "医疗数据挖掘", "机器/深度学习"]
 name = "张冬"
 portrait = "/portraits/zhangdong.jpg"
-short_bio = ""
+short_bio = "dongzhang@ahmu.edu.cn"
 short_name = ""
 title = "3_dong zhang"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "dongzhang@ahmu.edu.cn"
 
 [[social]]
     icon = "twitter"
