@@ -35,3 +35,4 @@ title = "8_jinlong shen"
     role = "2023级硕士生"
 
 +++
+研究方向：医学图像分割

@@ -35,4 +35,3 @@ title = "7_lishan huang"
     role = "2023级硕士生"
 
 +++
-研究方向：药物关联分析

@@ -12,7 +12,7 @@
 {{ if gt $guests_len 0 }}
 
 <div class="container">
-    <h1>学生</h1>
+    <h1>在读学生</h1>
     {{ range where .Site.RegularPages "Section" "guests" }}
         {{ partial "guests_li" . }} <!-- Assuming you have a 'guest_li' partial to format guest entries, similar to 'alumni_li'. -->
     {{ end }}
@@ -24,7 +24,7 @@
 {{ if gt $alumni_len 0 }}
 
 <div class="container">
-    <h1>Alumni</h1>
+    <h1>已毕业学生</h1>
     {{ range where .Site.RegularPages "Section" "alumni" }}
         {{ partial "alumni_li" . }}
     {{ end }}
