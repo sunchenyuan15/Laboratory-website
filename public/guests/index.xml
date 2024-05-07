@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guests on Academic group name</title>
+    <link>http://example.org/guests/</link>
+    <description>Recent content in Guests on Academic group name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; ahmu-LMBDAT, 2024</copyright>
+    <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/guests/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>7_lishan huang</title>
+      <link>http://example.org/guests/huanglishan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/guests/huanglishan/</guid>
+      <description>研究方向：药物关联分析</description>
+    </item>
+    
+    <item>
+      <title>8_jinlong shen</title>
+      <link>http://example.org/guests/shenjinlong/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/guests/shenjinlong/</guid>
+      <description>研究方向：医学图像分割</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -12,7 +12,7 @@ title = "6_zhenwan peng"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "pengzhenwan@ahmu.edu.c"
+    link = "mailto:pengzhenwan@ahmu.edu.c"
 
 [[social]]
     icon = "twitter"

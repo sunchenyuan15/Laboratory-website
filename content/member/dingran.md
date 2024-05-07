@@ -13,7 +13,7 @@ title = "5_ran ding"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "dingran@ahmu.edu.cn"
+    link = "mailto:dingran@ahmu.edu.cn"
 
 [[social]]
     icon = "twitter"

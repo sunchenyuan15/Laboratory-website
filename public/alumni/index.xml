@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alumnis on Academic group name</title>
+    <link>http://example.org/alumni/</link>
+    <description>Recent content in Alumnis on Academic group name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; ahmu-LMBDAT, 2024</copyright>
+    <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/alumni/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>7_lishan huang</title>
+      <link>http://example.org/alumni/huanglishan-copy-2/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/alumni/huanglishan-copy-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7_lishan huang</title>
+      <link>http://example.org/alumni/huanglishan-copy-3/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/alumni/huanglishan-copy-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7_lishan huang</title>
+      <link>http://example.org/alumni/huanglishan-copy/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/alumni/huanglishan-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7_lishan huang</title>
+      <link>http://example.org/alumni/huanglishan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/alumni/huanglishan/</guid>
+      <description>研究方向：药物关联分析</description>
+    </item>
+    
+  </channel>
+</rss>

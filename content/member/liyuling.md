@@ -13,7 +13,7 @@ title = "4_yulin li"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "liyuling@ahmu.edu.cn"
+    link = "mailto:liyuling@ahmu.edu.cn"
 
 [[social]]
     icon = "twitter"

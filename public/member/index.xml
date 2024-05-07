@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on Academic group name</title>
+    <link>http://example.org/member/</link>
+    <description>Recent content in Members on Academic group name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; ahmu-LMBDAT, 2024</copyright>
+    <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/member/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1_fei yang</title>
+      <link>http://example.org/member/yangfei/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/yangfei/</guid>
+      <description>个人简历： 安徽省人工智能学会常务理事，安徽省计算机学会理事，安徽省高等学校计算机教育研究会理事。现任生物医学工程学院副院长。
+主要从事医疗大数据分析、数据挖掘、医疗智能辅助诊断方面研究工作,独立研发LogBOOK，WebScope等软件系统，目前在聚变领域（EAST装置）广泛应用。
+近几年主持完成安徽省高校自然科学重点项目2项，安徽省高校省级优秀青年人才基金项目1项，现主持安徽省自然科学基金面上项目1项（医疗文本识别），主持横向课题4项（医学文本标注系统、远程访问系统），主持安徽省医学大数据实训示范中心平台1项，参与完成国家自然科学基金及国家973项目基金5项，发表SCI和国家核心学术论文50余篇。
+目前承担科研项目: 1）目前主持完成安徽高校省级优秀青年人才基金项目1项。
+2）安徽高校省级自然科学重点研究项目2项。
+3）主持安徽省自然科学基金面上项目1项。
+4）主持横向课题4项（医学文本标注系统、远程访问系统），以排名第三参与国际热核聚变实验堆（ITER）计划专项（973子项目）1项。
+5）参与国家自然科学基金4项。</description>
+    </item>
+    
+    <item>
+      <title>2_yunfei he</title>
+      <link>http://example.org/member/heyunfei/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/heyunfei/</guid>
+      <description>个人简历： 主要研究方向为推荐系统、异质图分析和图神经网络。现任职于安徽医科大学生物医学信息工程系。 目前发表SCI论文4篇，EI论文1篇（计算机学报，CCF A）。
+目前承担科研项目: 1）安徽医科大学引进人才博士科研启动基金，2022，主持； 2）国家重点研发计划：开放生态化云ERP，2019-2022，参与； 3）国家自然科学基金委员会联合基金项目：基于网络行为的人物心里刻画，2020-2023，参与；</description>
+    </item>
+    
+    <item>
+      <title>3_dong zhang</title>
+      <link>http://example.org/member/zhangdong/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/zhangdong/</guid>
+      <description>个人简历： 现任职于安徽医科大学生物医学工程学院医学信息工程系。 目前以第一作者发表SCI论文4篇，EI会议1篇，其中包括CCFA/B类论文3篇。 目前承担科研项目: 安徽医科大学引进人才博士科研启动基金2023</description>
+    </item>
+    
+    <item>
+      <title>4_yulin li</title>
+      <link>http://example.org/member/liyuling/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/liyuling/</guid>
+      <description>个人简历： 现任职于安徽医科大学生物医学信息工程系。
+主要研究方向为：知识图谱、自然语言处理、人工智能。 目前承担科研项目: 安徽医科大学引进人才博士科研启动基金，2022</description>
+    </item>
+    
+    <item>
+      <title>5_ran ding</title>
+      <link>http://example.org/member/dingran/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/dingran/</guid>
+      <description>个人简历： 现任职于安徽医科大学生物医学工程学院医学信息工程系。 目前发表SCI期刊论文4篇，EI会议论文1篇，发明专利1项。 目前承担科研项目: 安徽医科大学引进人才博士科研启动基金，2022</description>
+    </item>
+    
+    <item>
+      <title>6_zhenwan peng</title>
+      <link>http://example.org/member/pengzhengwan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://example.org/member/pengzhengwan/</guid>
+      <description>个人简历：
+安徽医科大学生物医学工程学院医学信息工程系校聘副教授。 目前承担科研项目: 目前主持安徽医科大学博士科研资助基金1项，安徽医科大学校科学研究基金资助项目1项。 主持与参与的项目课题： （1）安徽医科大学博士科研资助基金，2020 （2）安徽医科大学校科学研究基金资助项目，2020</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,13 +2,13 @@
 +++
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
-id = "member8"
+id = "guests3"
 interests = ["医学图像分割"]
 name = "沈金龙"
 portrait = "/portraits/shenjinlong.jpg"
 short_bio = ""
 short_name = ""
-title = "8_jinlong shen"
+title = "3_jinlong shen"
 
 [[social]]
     icon = "envelope"

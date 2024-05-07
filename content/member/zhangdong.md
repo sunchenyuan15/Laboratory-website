@@ -13,7 +13,7 @@ title = "3_dong zhang"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "dongzhang@ahmu.edu.cn"
+    link = "mailto:dongzhang@ahmu.edu.cn"
 
 [[social]]
     icon = "twitter"

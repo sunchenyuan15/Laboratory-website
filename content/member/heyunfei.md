@@ -13,7 +13,7 @@ title = "2_yunfei he"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "heyunfei@ahmu.edu.cn"
+    link = "mailto:heyunfei@ahmu.edu.cn"
 
 [[social]]
     icon = "twitter"

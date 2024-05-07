@@ -12,7 +12,7 @@ title = "1_fei yang"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "yangfei@ahmu.edu.cn"
+    link = "mailto:yangfei@ahmu.edu.cn"
 
 [[social]]
     icon = "twitter"

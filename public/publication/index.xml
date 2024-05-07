@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Academic group name</title>
+    <link>http://example.org/publication/</link>
+    <description>Recent content in Publications on Academic group name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; ahmu-LMBDAT, 2024</copyright>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flexible drug-target interaction prediction with interactive information extraction and trade-off</title>
+      <link>http://example.org/publication/fdtiit/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publication/fdtiit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical bottleneck for heterogeneous graph representation</title>
+      <link>http://example.org/publication/hbhg/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publication/hbhg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/post2/</loc>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/notebook/</loc>
+    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/post1/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/publication/fdtiit/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/publication/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/publication/hbhg/</loc>
+    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/project/</loc>
+    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/project/assistant-diagnosis-system/</loc>
+    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/project/electronic-medical-record/</loc>
+    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/project/drug-association-analysis/</loc>
+    <lastmod>2016-07-12T16:10:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/member/yangfei/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/member/heyunfei/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/member/zhangdong/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/member/liyuling/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/member/dingran/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/member/pengzhengwan/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/alumni/huanglishan-copy-2/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/alumni/huanglishan-copy-3/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/alumni/huanglishan-copy/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/alumni/huanglishan/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/guests/huanglishan/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/guests/shenjinlong/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/alumni/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/guests/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/member/</loc>
+    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/approach/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/mission/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/research/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/vacancy/vacancy1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/vacancy/</loc>
+  </url>
+  
+</urlset>

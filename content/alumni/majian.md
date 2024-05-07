@@ -4,11 +4,11 @@ bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "member7"
 interests = ["药物关联分析"]
-name = "黄莉珊"
-portrait = "/portraits/huanglishan.jpg"
+name = "马剑"
+portrait = "/portraits/portrait.jpg"
 short_bio = ""
 short_name = ""
-title = "7_lishan huang"
+title = "2_jian ma"
 
 [[social]]
     icon = "envelope"
@@ -32,6 +32,6 @@ title = "7_lishan huang"
 
 [[organizations]]
     name = "生物医学工程专业"
-    role = "2023级硕士生"
+    role = "2021级硕士生"
 
 +++
